@@ -1,3 +1,8 @@
+## dev
+
+* Port to dune from ocamlbuild (@avsm)
+* Upgrade opam metadata to 2.0 format (@avsm)
+
 ## 0.6.2 (2018-08-24)
 
 * compatibility with ppx_sexp_conv >v0.11.0 (#109), required for 4.07.0
